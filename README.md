@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aburakd
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Django
 
 <!---
 aburakd/aburakd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
